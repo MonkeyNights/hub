@@ -14,7 +14,10 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
+    
+a.title-link {
+ color:#FFFFFF;   
+}
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
