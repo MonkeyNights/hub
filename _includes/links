@@ -1,4 +1,4 @@
-###Artigos e Tutoriais
+### Artigos e Tutoriais
 
 {% for post in site.data.posts %}
     {% if post.tags contains tag %}
@@ -6,7 +6,7 @@
     {% endif %}
 {% endfor %}
 
-###Videos
+### Videos
 
 {% for video in site.data.videos %}
     {% if video.tags contains tag %}
@@ -14,7 +14,7 @@
     {% endif %}
 {% endfor %}
 
-###Exemplos de código
+### Exemplos de código
 
 {% for sample in site.data.samples %}
     {% if sample.tags contains tag %}
