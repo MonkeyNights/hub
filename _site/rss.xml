@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>Monkey Nights - Xamarin Hub</title>
+        <description>Monkey Nights - Xamarin Hub - Monkey Nights</description>
+        <link>http://monkeynights.github.io/hub/</link>
+        <atom:link href="http://monkeynights.github.io/hub//rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 03 Apr 2016 14:50:10 -0300</lastBuildDate>
+        <pubDate>Sun, 03 Apr 2016 14:50:10 -0300</pubDate>
+        <ttl>60</ttl>
+
+
+
+</channel>
+</rss>

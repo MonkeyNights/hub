@@ -1,0 +1,56 @@
+---
+  - 
+    url: "https://youtu.be/H88uF6RBs38"
+    name: "Instalando Template de Xamarin Android Material Design no Visual Studio"
+    tags: 
+      - "android"
+  -
+    url: "https://www.youtube.com/watch?v=b7a0mJHav2U&index=1&list=PLNTCwkT5owTT0elAbegf6Akf1Mf0_HAbL"
+    name: "Conhecendo o Xamarin.Forms"
+    tags:
+      - "forms"
+  -
+    url: "https://www.youtube.com/watch?v=AI1AVI5v9-s&index=2&list=PLNTCwkT5owTT0elAbegf6Akf1Mf0_HAbL"
+    name: "Tipos de Páginas e Navegação com Xamarin.Forms"
+    tags:
+      - "forms"
+  -
+    url: "https://www.youtube.com/watch?v=y9wACg61r4M&index=3&list=PLNTCwkT5owTT0elAbegf6Akf1Mf0_HAbL"
+    name: "Armazenando Dados com SQLite no Xamarin.Forms"
+    tags:
+      - "forms"
+  -
+    url: "https://www.youtube.com/watch?v=fPxWd5POn4E&index=4&list=PLNTCwkT5owTT0elAbegf6Akf1Mf0_HAbL"
+    name: "Criando uma ListView com Infinite Scroll usando o Xamarin.Forms"
+    tags:
+      - "forms"
+  -
+    url: "https://www.youtube.com/watch?v=ENy8YVsfwNY&index=5&list=PLNTCwkT5owTT0elAbegf6Akf1Mf0_HAbL"
+    name: "Tipos de Células de uma ListView - Xamarin Forms"
+    tags:
+      - "forms"
+  -
+    url: "https://www.youtube.com/watch?v=Yr7pGCsGmQ0&index=6&list=PLNTCwkT5owTT0elAbegf6Akf1Mf0_HAbL"
+    name: "Navegação entre Páginas e Display Alert com MVVM e Xamarin Forms"
+    tags:
+      - "forms"
+  -
+    url: "https://www.youtube.com/watch?v=yWr4A16-oYg&index=7&list=PLNTCwkT5owTT0elAbegf6Akf1Mf0_HAbL"
+    name: "Lista Agrupada com SearchBar - Xamarin Forms"
+    tags:
+      - "forms"
+  -
+    url: "https://www.youtube.com/watch?v=SM9be_pA9us&index=8&list=PLNTCwkT5owTT0elAbegf6Akf1Mf0_HAbL"
+    name: "Criando um controle Image Button - #Xamarin Forms, #MVVM"
+    tags:
+      - "forms"
+  -
+    url: "https://www.youtube.com/watch?v=cyq_ho4QflQ&index=9&list=PLNTCwkT5owTT0elAbegf6Akf1Mf0_HAbL"
+    name: "Tutorial: Facebook Login com Xamarin Forms"
+    tags:
+      - "forms"
+  -
+    url: "https://youtu.be/ogS9fpvZj_w"
+    name: "Tutorial Xamarin iOS - Adicionando Autenticação ao seu APP usando o TouchId"
+    tags:
+      - "ios"

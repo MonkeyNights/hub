@@ -1,0 +1,23 @@
+###Artigos e Tutoriais
+
+{% for post in site.data.posts %}
+    {% if post.tags contains tag %}
+- [{{ post.name }}]({{post.url}})
+    {% endif %}
+{% endfor %}
+
+###Videos
+
+{% for video in site.data.videos %}
+    {% if video.tags contains tag %}
+- [{{ video.name }}]({{video.url}})
+    {% endif %}
+{% endfor %}
+
+###Exemplos de código
+
+{% for sample in site.data.samples %}
+    {% if sample.tags contains tag %}
+- [{{ sample.name }}]({{sample.url}})
+    {% endif %}
+{% endfor %}
