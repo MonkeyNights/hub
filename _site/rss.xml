@@ -3,10 +3,10 @@
 <channel>
         <title>Monkey Nights - Xamarin Hub</title>
         <description>Monkey Nights - Xamarin Hub - Monkey Nights</description>
-        <link>http://monkeynights.github.io/hub/</link>
-        <atom:link href="http://monkeynights.github.io/hub//rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 03 Apr 2016 15:01:46 -0300</lastBuildDate>
-        <pubDate>Sun, 03 Apr 2016 15:01:46 -0300</pubDate>
+        <link>http://monkeyhub.com.br</link>
+        <atom:link href="http://monkeyhub.com.br/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Thu, 14 Apr 2016 16:25:30 -0300</lastBuildDate>
+        <pubDate>Thu, 14 Apr 2016 16:25:30 -0300</pubDate>
         <ttl>60</ttl>
 
 
