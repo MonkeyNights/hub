@@ -1,5 +1,17 @@
 # Monkey Nights Xamarin Hub
 
+[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-oxygen.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/compatibility-ie-6.svg)](http://forthebadge.com)
+
 ### Proposta
 
 O principal objetivo deste hub é responder à pergunta “Como aprender a desenvolver aplicativos moveis com C# e Xamarin?”, mas ele não fica só nisso. Com a ajuda da comunidade, você vai encontrar aqui não só uma lista de links para conteúdo, mas uma oportunidade de aprender, colaborar, conhecer pessoas e fazer parte comunidade Brasileira de desenvolvedores Xamarin.
