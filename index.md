@@ -36,3 +36,4 @@ Até o momento colaboraram com o hub:
 - [@angelobelchior8](http://www.github.com/angelobelchior8)
 - [@williamsrz](http://www.github.com/williamsrz)
 - [@willsb](http://www.github.com/willsb)
+- [@ionixjunior](https://github.com/ionixjunior)
