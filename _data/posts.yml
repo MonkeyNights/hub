@@ -1,13 +1,13 @@
 ---
-  - 
+  -
     url: "http://willsb.github.io/xamarin/2016/02/11/episode-I"
     name: "Série de posts sobre desenvolvimento Xamarin com MvvmCross"
-    tags: 
+    tags:
       - "xamarin"
-  - 
+  -
     url: "http://willsb.github.io/xamarin/2016/02/17/episode-I"
     name: "Série de posts sobre como preparar uma PCL para seu projeto Xamarin"
-    tags: 
+    tags:
       - "index"
   -
     url: "http://williamsrz.ghost.io/2015/03/24/xamarin-ou-xamarin-forms/"
@@ -27,60 +27,65 @@
   -
     url: "http://xamarinbr.azurewebsites.net/xamarin-android-resolvendo-o-problema-deployment-failed-because-of-an-internal-error-failure-install_failed_update_incompatible/"
     name: "Resolvendo o problema 'Deployment failed because of an internal error: Failure [INSTALL_FAILED_UPDATE_INCOMPATIBLE]'"
-    tags: 
+    tags:
       - "android"
   -
     url: "http://xamarinbr.azurewebsites.net/google-apps-e-google-play-services-no-xamarin-android-player/"
     name: "Configurando Google Apps e Google Play Services no Xamarin Android Player"
-    tags: 
+    tags:
       - "android"
   -
     url: "http://xamarinbr.azurewebsites.net/desenvolvimento-mobile-introducao-ao-xamarin-forms/"
     name: "Introdução ao Xamarin.Forms"
-    tags: 
+    tags:
       - "forms"
   -
     url: "http://xamarinbr.azurewebsites.net/lista-agrupada-com-searchbar-xamarin-forms/"
     name: "Lista Agrupada com SearchBar - Xamarin Forms"
-    tags: 
+    tags:
       - "forms"
   -
     url: "http://xamarinbr.azurewebsites.net/criando-um-controle-image-button-xamarin-forms-mvvm/"
     name: "Criando um controle Image Button - #Xamarin Forms, #MVVM"
-    tags: 
+    tags:
       - "forms"
   -
     url: "http://xamarinbr.azurewebsites.net/navegacao-entre-paginas-e-display-alert-com-mvvm-e-xamarin-forms/"
     name: "Navegação entre Páginas e Display Alert com MVVM e Xamarin Forms"
-    tags: 
+    tags:
       - "forms"
   -
     url: "http://xamarinbr.azurewebsites.net/tipos-de-celulas-de-uma-listview-xamarin-forms/"
     name: "Tipos de Células de uma ListView - Xamarin Forms"
-    tags: 
+    tags:
       - "forms"
   -
     url: "http://xamarinbr.azurewebsites.net/criando-uma-listview-com-infinite-scroll-usando-o-xamarin-forms/"
     name: "Criando uma ListView com Infinite Scroll usando o Xamarin.Forms"
-    tags: 
+    tags:
       - "forms"
   -
     url: "http://xamarinbr.azurewebsites.net/desenvolvimento-mobile-tipos-de-paginas-e-navegacao-com-xamarin-forms/"
     name: "Tipos de Páginas e Navegação com Xamarin.Forms"
-    tags: 
+    tags:
       - "forms"
   -
     url: "http://xamarinbr.azurewebsites.net/criando-um-app-ios-usando-o-visual-studio-e-xamarin/"
     name: "Criando um App iOS usando o Visual Studio e Xamarin"
-    tags: 
+    tags:
       - "ios"
   -
     url: "http://xamarinbr.azurewebsites.net/resolvendo-o-problema-no-valid-ios-code-signing-keys-found-in-keychain/"
     name: "Xamarin: Resolvendo o problema 'No valid iOS code signing keys found in keychain.'"
-    tags: 
+    tags:
       - "ios"
   -
     url: "http://xamarinbr.azurewebsites.net/apple-watch-e-xamarin-criando-o-primeiro-app/"
     name: "Apple Watch e Xamarin: Criando o primeiro App"
-    tags: 
+    tags:
       - "ios"
+  -
+    url: "http://www.ionixjunior.com.br/xamarin-forms-corrigindo-a-renderizacao-do-imagecell-no-android/"
+    name: "Xamarin.Forms – Corrigindo a renderização do ImageCell no Android"
+    tags:
+      - "forms"
