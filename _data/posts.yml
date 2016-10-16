@@ -89,3 +89,8 @@
     name: "Xamarin.Forms – Corrigindo a renderização do ImageCell no Android"
     tags:
       - "forms"
+  -
+    url: "https://medium.com/blog-do-mitrut/xamarin-vs-nativo-36e46ec2c566#.l7pfo7gfj"
+    name: "Xamarin vs. Nativo – Por Colby Williams, traduzido por Wellington Mitrut"
+    tags:
+      - "xamarin"
