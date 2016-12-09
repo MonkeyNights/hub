@@ -89,3 +89,8 @@
     name: "Xamarin.Forms – Corrigindo a renderização do ImageCell no Android"
     tags:
       - "forms"
+  -
+    url: "http://www.ionixjunior.com.br/xamarin-forms-prevenindo-duplo-clique/"
+    name: "Xamarin.Forms – Prevenindo duplo clique"
+    tags:
+      - "forms"
